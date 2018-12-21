@@ -4272,6 +4272,20 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rcUACunQ45 {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-rcUACunQ45 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rcUACunQ45 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rcOUEEx5F4 {
   padding-top: 90px;
   padding-bottom: 90px;
